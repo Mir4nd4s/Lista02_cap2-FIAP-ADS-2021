@@ -1,5 +1,5 @@
 # Lista02_cap2-FIAP-ADS-2021
-Lista02_cap2-FIAP-ADS-2021
+Desvio condicional. Agora é hora de aplicarmos essa estrutura em cenários reais.
 
 ## Para cada um dos problemas abaixo, crie um script em Python com a solução correspondente.
 
