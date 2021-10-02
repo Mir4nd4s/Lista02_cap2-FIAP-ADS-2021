@@ -1,4 +1,5 @@
 # Lista02_cap2-FIAP-ADS-2021
+Resoluções da lista de exercícios, ministradas no curso de Análise e Desenvolvimento de Sistemas da FIAP (2021)
 Desvio condicional. Agora é hora de aplicarmos essa estrutura em cenários reais.
 
 ## Para cada um dos problemas abaixo, crie um script em Python com a solução correspondente.
